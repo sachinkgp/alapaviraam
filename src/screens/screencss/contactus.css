@@ -1,0 +1,14 @@
+.contactusparent{
+    background-image: url('../../../public/ourteamback.jpeg');
+    background-size: cover;
+    background-position: center;
+    height:800px;
+    margin:auto;
+    justify-content: center;
+}
+
+.contactus{
+    text-align: center;
+    margin: auto;
+    max-width: 600px;
+}
