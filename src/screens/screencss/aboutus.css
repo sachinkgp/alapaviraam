@@ -31,10 +31,24 @@
 .babyabtus{
     display: flex;
 }
+.babyabtus2{
+    display: flex;
+    flex-direction: column;
+}
+.topmargin{
+    margin-top: 15px;
+}
+
+.bottommargin{
+    margin-bottom: 15px;
+}
 
 .card{
     padding-top: 40px;
     padding-bottom: 40px;
     margin-top: 40px;
+    
+    /* margin-left: 5px; */
+    /* margin-bottom: 5px; */
     justify-content: space-between;
 }
